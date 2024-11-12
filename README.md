@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **somendra830@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/somendra777](https://www.linkedin.com/in/somendra777)
+- 📄 Know about my experiences [https://www.linkedin.com/in/somendra777](https://www.linkedin.com/in/somendra_vin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
