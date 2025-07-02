@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm somendra singh</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 🔭 I’m currently working on [Tune merge](https://github.com/somendrajaat/tune--merge)
 
