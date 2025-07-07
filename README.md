@@ -3,6 +3,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=somendrajaat&color=blue)
 
+![Spirited Away GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3E1aG5rdm4wdjhxcDZhY3M3eDV5YnI1MDdsdTAweTdxdXZhNjY3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)
+
+
 - 🔭 I’m currently working on [Tune merge](https://github.com/somendrajaat/tune--merge)
 
 - 🌱 I’m currently learning **SpringBoot**
