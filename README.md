@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm somendra singh</h1>
 <h3 align="center">A passionate developer</h3>
-
+![Profile Views](https://komarev.com/ghpvc/?username=somendrajaat&color=blue)
 - 🔭 I’m currently working on [Tune merge](https://github.com/somendrajaat/tune--merge)
 
 - 🌱 I’m currently learning **SpringBoot**
